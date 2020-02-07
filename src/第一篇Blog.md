@@ -14,5 +14,6 @@ excerpt: Hello World!
 ---
 
 这是我的第一篇文章。文章使用 GitHub 管理，并通过 GitHub Actions 自动构建与发布！
+试试CDN的功能
 
 ![日出东方](./images/david-marcu-78A265wPiO4-unsplash.jpg)
