@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/Blog-With-GitHub-Boilerplate/</id><title>生活碎碎念</title><updated>2020-03-22T19:00:38.666788+08:06</updated><author><name>250life</name><email>xuweio@gmail.com</email></author><link href="/Blog-With-GitHub-Boilerplate/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/xuweio/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</logo><subtitle>Better Tech，Better Life</subtitle><entry><id>/Blog-With-GitHub-Boilerplate/archives/apple-ppt/</id><title>20180912今晚的Apple发布会</title><updated>2020-03-22T19:00:38.667001+00:00</updated><author><name>&lt;250life&gt;</name><email>xuweio@gmail.com</email><uri>https://www.250life.com</uri></author><content>&lt;h1&gt;说说今晚的发布会&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/Blog-With-GitHub-Boilerplate/</id><title>生活碎碎念</title><updated>2020-03-22T19:58:27.974010+08:06</updated><author><name>250life</name><email>xuweio@gmail.com</email></author><link href="/Blog-With-GitHub-Boilerplate/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/xuweio/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</logo><subtitle>Better Tech，Better Life</subtitle><entry><id>/Blog-With-GitHub-Boilerplate/archives/apple-ppt/</id><title>20180912今晚的Apple发布会</title><updated>2020-03-22T19:58:27.974242+00:00</updated><author><name>&lt;250life&gt;</name><email>xuweio@gmail.com</email><uri>https://www.250life.com</uri></author><content>&lt;h1&gt;说说今晚的发布会&lt;/h1&gt;
 &lt;p&gt;已经好久没有写东西，趁着今晚会开的苹果发布会，还是写点什么东西吧。&lt;/p&gt;
 &lt;h2&gt;关于iPhone&lt;/h2&gt;
 &lt;p&gt;虽然iPhone x的全面屏造成的同等的显示面积，但是体积更小。对于这一点我还是很喜欢的，可惜是从它以后的价格，我越来越觉得负担不起了。一个小小的手机，竟然需要7-8k，感觉真的很难下手。不清楚今年发布的iPhone在价格上会不会有惊喜？抑或是有Kill Feature会吸引我。&lt;/p&gt;
@@ -11,10 +11,10 @@
 &lt;p&gt;Apple Watch对我来说，已经是每天必带的配饰。喜欢它默默的工作，默默的记录健身的记录，虽然还是停留在S1的年代，但是感觉如果没有大的改进的话，也找不到今年换机的理由。&lt;/p&gt;
 &lt;p&gt;期待Apple Watch的突破，虽然现实进展挺慢的。但是我还是对Apple有一定的信心！！
 &lt;figure style="flex: 150.21459227467813" &gt;&lt;img width="700" height="233" src="http://qiniu.250life.com/15366726825700.jpg" /&gt;&lt;/figure&gt;&lt;/p&gt;
-</content><link href="/Blog-With-GitHub-Boilerplate/archives/apple-ppt/" rel="alternate"/><published>2018-09-12T20:34:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/my-first-awesome-post/</id><title>我的第一篇文章</title><updated>2020-03-22T19:00:38.666969+00:00</updated><author><name>250life</name><email>xuweio@gmail.com</email><uri>https://www.250life.com</uri></author><content>&lt;p&gt;这是我的第一篇文章。文章使用 GitHub 管理，并通过 GitHub Actions 自动构建与发布！
+</content><link href="/Blog-With-GitHub-Boilerplate/archives/apple-ppt/" rel="alternate"/><published>2018-09-12T20:34:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/my-first-awesome-post/</id><title>我的第一篇文章</title><updated>2020-03-22T19:58:27.974203+00:00</updated><author><name>250life</name><email>xuweio@gmail.com</email><uri>https://www.250life.com</uri></author><content>&lt;p&gt;这是我的第一篇文章。文章使用 GitHub 管理，并通过 GitHub Actions 自动构建与发布！
 试试CDN的功能&lt;/p&gt;
 &lt;p&gt;&lt;figure style="flex: 88.88888888888889" &gt;&lt;img width="1920" height="1080" src="https://cdn.jsdelivr.net/gh/xuweio/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/de9b9fb0824fda5a9ae6d4c2608f3e81.jpg" /&gt;&lt;figcaption&gt;日出东方&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-</content><link href="/Blog-With-GitHub-Boilerplate/archives/my-first-awesome-post/" rel="alternate"/><published>2019-12-17T20:34:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/typography/</id><title>Hello World!</title><updated>2020-03-22T19:00:38.666934+00:00</updated><author><name>AlanDecode</name><email>xuweio@gmail.com</email><uri>https://www.250life.com</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+</content><link href="/Blog-With-GitHub-Boilerplate/archives/my-first-awesome-post/" rel="alternate"/><published>2019-12-17T20:34:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/typography/</id><title>Hello World!</title><updated>2020-03-22T19:58:27.974172+00:00</updated><author><name>AlanDecode</name><email>xuweio@gmail.com</email><uri>https://www.250life.com</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -93,7 +93,25 @@
 &lt;/table&gt;
 &lt;h2&gt;Link Card&lt;/h2&gt;
 &lt;div class="links"&gt;
-&lt;a style="display:block" target="_blank" href="https://www.imalan.cn" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://secure.gravatar.com/avatar/1741a6eef5c824899e347e4afcbaa75d?s=200&amp;r=G&amp;d="&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;AlanDecode&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;Home page for AlanDecode &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content><link href="/Blog-With-GitHub-Boilerplate/archives/typography/" rel="alternate"/><published>2019-12-18T16:50:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/euro-latest/</id><title>欧洲最近的形式</title><updated>2020-03-22T19:00:38.666863+00:00</updated><author><name>250life</name><email>xuweio@gmail.com</email><uri>https://www.250life.com</uri></author><content>&lt;h1&gt;欧洲最近的形势&lt;/h1&gt;
+&lt;a style="display:block" target="_blank" href="https://www.imalan.cn" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://secure.gravatar.com/avatar/1741a6eef5c824899e347e4afcbaa75d?s=200&amp;r=G&amp;d="&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;AlanDecode&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;Home page for AlanDecode &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content><link href="/Blog-With-GitHub-Boilerplate/archives/typography/" rel="alternate"/><published>2019-12-18T16:50:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/euro-latest/</id><title>2019年总结</title><updated>2020-03-22T19:58:27.974118+00:00</updated><author><name>250life</name><email>xuweio@gmail.com</email><uri>https://www.250life.com</uri></author><content>&lt;h1&gt;总体评价&lt;/h1&gt;
+&lt;p&gt;2019年对我来说，有收获也有失落。总体来看，可能是失落大于收获。收获最多的可能是家庭关系的逐渐改善，小朋友的快乐成长；失落更多的是来源于工作。&lt;/p&gt;
+&lt;h1&gt;关于工作&lt;/h1&gt;
+&lt;p&gt;2019年虽然换了一个工作环境，从国内一线来到了高大上的国际一线城市。但是，说实话越来越认同—-每次出国都是一次爱国主义教育。巴黎的名声让我向往，但是残酷的现实让我对它有些失望。
+在工作上，已经好几年没有涨薪涨级了。而且，本年加班的频率多到无法想象。换成以前的我，真的不知道怎么能够熬下来。可是，不得不承认人的可塑性还是很强的。不但可以加班到很晚，也可以长期一直加。
+另外，对于自己的工作内容，虽然有新的收获，但还是深深的怀疑自己的能力，怀疑到底被不被认可。诚然自己年纪已经不小，不应该这么在乎别人的评价，但长期处于这个环境下，内心深处还是希望被认可，被鼓励的。&lt;/p&gt;
+&lt;h1&gt;关于生活&lt;/h1&gt;
+&lt;p&gt;随着家人的随军，我和全家人的关系的确在改善过程中。虽然不是完全没有矛盾，但是对比以前的频率和程度来看，我还是比较欣慰的。看着两个可爱的小朋友，生活的一切烦恼都不是个事。感谢你们在身边！！&lt;/p&gt;
+&lt;h1&gt;关于投资&lt;/h1&gt;
+&lt;p&gt;通过app看了一下，今年的收益虽然差强人意，仅为8%左右，远远低于大盘的评价水平。但是我隐约感觉到了入门的希望。在工作中的缺憾，我希望能够在未来的投资中获得！&lt;/p&gt;
+&lt;h1&gt;2020年期望&lt;/h1&gt;
+&lt;p&gt;还是不能免俗，默默的许下心愿。当然不是冀望某种神秘的力量帮我梦想成真，是为了后续的总结能够“有据可依”。希望在2020年中：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;涨薪升级（一级）&lt;/li&gt;
+&lt;li&gt;投资水平能够有飞跃（收益率超过20%）&lt;/li&gt;
+&lt;li&gt;多锻炼身体（体重控制在125以内）&lt;/li&gt;
+&lt;li&gt;多读书（全年20本）&lt;/li&gt;
+&lt;/ol&gt;
+</content><link href="/Blog-With-GitHub-Boilerplate/archives/euro-latest/" rel="alternate"/><published>2019-12-31T20:34:00+08:06</published></entry><entry><id>/Blog-With-GitHub-Boilerplate/archives/euro-latest/</id><title>欧洲最近的形式</title><updated>2020-03-22T19:58:27.974067+00:00</updated><author><name>250life</name><email>xuweio@gmail.com</email><uri>https://www.250life.com</uri></author><content>&lt;h1&gt;欧洲最近的形势&lt;/h1&gt;
 &lt;p&gt;​   2020年真的是很神奇的一年，不得不相信玛雅人当初的预言是算错了：&lt;em&gt;世界末日不是2012，而是2020！&lt;/em&gt;本来还在担心中美贸易战的，但是在全世界汹涌的疫情面前，感觉已经不值一提了。&lt;/p&gt;
 &lt;p&gt;​   2个月前，我还在欧洲笑看国内风云，刚才幸亏外派了。哪里知道2个月以后，欧洲风云突变，凶猛的疫情吓了世界一跳。通过疫情的发展，我对欧洲有了全新的认识，当初认为的发达资本主义国家是那么的成熟和先进。但是看看欧洲4大强国对面疫情的应对，我才发现，原来大家都是半斤八两。欧洲的荣光貌似正在渐渐褪去，剩下的是一片狼藉。&lt;/p&gt;
 &lt;h2&gt;民主制度&lt;/h2&gt;
